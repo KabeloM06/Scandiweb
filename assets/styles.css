@@ -1,0 +1,7 @@
+@import './bootstrap.css';
+
+.items {
+    display: block;
+    border: 5px;
+    border: red;
+}
